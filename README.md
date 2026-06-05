@@ -1,1 +1,1 @@
-# BindAI your Powerful AI Platform, Try Now!!!
+# My Claude skills repository.
